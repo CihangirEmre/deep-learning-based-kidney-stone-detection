@@ -41,6 +41,3 @@ The project will include:
 For detailed information regarding methodology, architecture and implementation plan, please refer to:
 
 `Project_Proposal.pdf`
-
-## Repository Structure
-
